@@ -1,0 +1,1 @@
+sudo docker run -it --name jenkins -p 8085:8080 -p 50009:50000 --restart always
